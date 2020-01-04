@@ -1,0 +1,19 @@
+{
+  "name": "louischan.dev-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:louisch/louischan.dev-nextjs.git",
+  "author": "Louis Chan <louisch@fastmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
